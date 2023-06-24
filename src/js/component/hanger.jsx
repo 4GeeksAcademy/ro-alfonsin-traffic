@@ -2,7 +2,7 @@ import React from "react";
 
 function Hanger(){
     return(
-        <div className="row" style={{height: "100px"}}>'
+        <div className="row" style={{height: "100px"}}>
             <div className="col">
 
             </div>

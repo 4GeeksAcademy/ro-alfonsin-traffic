@@ -17,7 +17,7 @@ function TrafficLight(){
     });
 
     return(
-        <div className="row" style={{height: "500px"}}>'
+        <div className="row" style={{height: "500px"}}>
             <div className="col">
 
             </div>
